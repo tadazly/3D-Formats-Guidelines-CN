@@ -18,13 +18,13 @@ KTX 最适用于加载时间必须较快且最需要节省内存的情况。在�
 
 具有图形用户界面的艺术家友好型 KTX 软件指南：
 
-* [KTX Guide for Gestaltor](subpages/KTXArtistGuide_Gestaltor.md) 是一款支持 KTX 的可视化 glTF 编辑器。可用于编辑单个 glTF 文件，或通过命令行进行批处理。2MB 以下的 glTF 文件可免费用于非商业用途。订阅后将取消所有限制，并可访问命令行。
-* [KTX Guide for glTF-Compressor](subpages/KTXArtistGuide_glTF-Compressor.md) 是一款支持 KTX 的网络 3D 查看器。可用于压缩单个 glTF 文件，也可保存设置以便在其他地方批量处理。可免费用于无限量的 glTF 文件。
-* [KTX Guide for RapidCompact](subpages/KTXArtistGuide_RapidCompact.md) 是一个在线平台，用于优化支持 KTX 的 3D 数据。可用于编辑单个 glTF 文件，或通过命令行进行批处理。非商业用途免费，每月最多可进行 20 次转换。订阅可取消所有限制，并可访问命令行。
+* [KTX Guide for Gestaltor](subpages/KTXArtistGuide_Gestaltor.cn.md) 是一款支持 KTX 的可视化 glTF 编辑器。可用于编辑单个 glTF 文件，或通过命令行进行批处理。2MB 以下的 glTF 文件可免费用于非商业用途。订阅后将取消所有限制，并可访问命令行。
+* [KTX Guide for glTF-Compressor](subpages/KTXArtistGuide_glTF-Compressor.cn.md) 是一款支持 KTX 的网络 3D 查看器。可用于压缩单个 glTF 文件，也可保存设置以便在其他地方批量处理。可免费用于无限量的 glTF 文件。
+* [KTX Guide for RapidCompact](subpages/KTXArtistGuide_RapidCompact.cn.md) 是一个在线平台，用于优化支持 KTX 的 3D 数据。可用于编辑单个 glTF 文件，或通过命令行进行批处理。非商业用途免费，每月最多可进行 20 次转换。订阅可取消所有限制，并可访问命令行。
 
 还有其他 KTX 工具可供选择，它们可能对艺术家不那么友好，但往往能提供最大的灵活性和控制性：
-* [KTX Guide for glTF-Transform](subpages/KTXArtistGuide_glTF-Transform.md) 是用于 glTF 编辑的命令行工具，包括 KTX 压缩。
-* [KTX Guide for toktx](subpages/KTXArtistGuide_toktx.md) 是用于 KTX 压缩纹理的命令行工具。
+* [KTX Guide for glTF-Transform](subpages/KTXArtistGuide_glTF-Transform.cn.md) 是用于 glTF 编辑的命令行工具，包括 KTX 压缩。
+* [KTX Guide for toktx](subpages/KTXArtistGuide_toktx.cn.md) 是用于 KTX 压缩纹理的命令行工具。
 * [KTX 2.0 Tools](KTXTools.md) 列出了更多 KTX 工具。
 
 ## 为什么使用 KTX?
